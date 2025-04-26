@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kenan101055
 - 👀 I’m interested in html and games
-- 🌱 I’m currently learning html
-- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning js and ts
+- 
 - ⚡ Fun fact: 9+10=21
 
 <!---
